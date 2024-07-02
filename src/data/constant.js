@@ -13,7 +13,6 @@ export const Bio = {
     resume:
       "https://drive.google.com/file/d/16DYEBvkleKDScXGsX6B4FyRT4B4Mg0yH/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/drashti-bhavsar-01/",
-    tableue: "https://twitter.com/RishavChanda"
   };
   
   export const skills = [
