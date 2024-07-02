@@ -1,11 +1,9 @@
 import React from 'react';
-import styled from 'styled-components';
 import { Nav, NavLink, NavbarContainer, Span, NavLogo, NavItems, GitHubButton, ButtonContainer, MobileIcon, MobileMenu, MobileLink } from './NavbarStyledComponents'
 import { DiCssdeck } from 'react-icons/di';
 import { FaBars } from 'react-icons/fa';
 import { Bio } from '../../data/constant';
 import { useTheme } from 'styled-components';
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = React.useState(false);
