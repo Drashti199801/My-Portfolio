@@ -1,5 +1,5 @@
 # Portfolio
-![image](https://github.com/Drashti199801/Portfolio/assets/156224544/0d98460f-137b-45d1-bcb4-26a3b8cba785)
+![image](https://github.com/Drashti199801/Portfolio/assets/156224544/67e965a6-5784-454c-9394-998ab388cfb9)
 ![image](https://github.com/Drashti199801/Portfolio/assets/156224544/628ef187-8c35-410f-8a95-7b37a0da28f1)
 ![image](https://github.com/Drashti199801/Portfolio/assets/156224544/ea11b232-60a0-42de-a800-59d3e04bea1b)
 ![image](https://github.com/Drashti199801/Portfolio/assets/156224544/f709c872-c383-4741-9c69-c11a055831f9)
