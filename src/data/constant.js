@@ -258,8 +258,7 @@ export const Bio = {
       date: "Jun 2024 - Jul 2024",
       description:
         "I created a dynamic and visually appealing portfolio using HTML5, CSS3, JavaScript, React.js, and Styled-Components. The project showcases my skills and projects, providing an intuitive and interactive user experience. It features responsive design, ensuring accessibility across various devices. Version control and collaboration were managed through Git and GitHub.",
-      image:
-        "https://private-user-images.githubusercontent.com/156224544/345190854-0d98460f-137b-45d1-bcb4-26a3b8cba785.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk5NTI0MzksIm5iZiI6MTcxOTk1MjEzOSwicGF0aCI6Ii8xNTYyMjQ1NDQvMzQ1MTkwODU0LTBkOTg0NjBmLTEzN2ItNDVkMS1iY2I0LTI2YTNiOGNiYTc4NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQyMDI4NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMThjZmE0YjRlZmQ4ZDM2OGI4OTVhNzc3NTFiZWU2ODFhNjlhNjU1MDAzMDcwOTk2NDNjOWVmNjU3N2QxMDVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.V4qer2L6MlsGseuP2CzZzmoHcQdFlYDmPrWgJD3K7rU",
+      image: process.env.PUBLIC_URL + '/images/portfolio.png',
       tags: [
         "HTML5",
         "CSS3",
@@ -278,8 +277,7 @@ export const Bio = {
       date: "April 2024",
       description:
         "This project is a custom Content Management System (CMS) designed for creating and managing a website or blog. It features a user-friendly admin panel where users can add or edit pages and posts, manage navigation menus, and customize templates. The CMS includes a WYSIWYG editor for easy content formatting and ensures secure admin access with user authentication. Built with HTML, CSS, JavaScript, and Node.js, and using MongoDB for data storage, the website is fully responsive and adaptable to various devices.",
-      image:
-        "https://private-user-images.githubusercontent.com/156224544/344817353-30723c45-71a9-4727-a4af-9c7331f74493.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4NzExOTEsIm5iZiI6MTcxOTg3MDg5MSwicGF0aCI6Ii8xNTYyMjQ1NDQvMzQ0ODE3MzUzLTMwNzIzYzQ1LTcxYTktNDcyNy1hNGFmLTljNzMzMWY3NDQ5My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMVQyMTU0NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNTdkMmEwM2I4Mjc4M2RmNGVhOGI1NWZhY2M2NzMxMzRmZWViMzY4YmJjZTEyMWQ1YWY2NmRlYzA4NzljZGYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.gC6cKvuGb1v3xVbrFoGEH99WGMyA3dcW73vI3hWbtRM",
+      image: process.env.PUBLIC_URL + '/images/techblog.png',
       tags: [
         "HTML",
         "CSS",
@@ -299,8 +297,7 @@ export const Bio = {
       date: "Oct 2023",
       description:
         "Created an interactive Netflix dashboard that allows users to explore and analyze the streaming platform’s content. The dashboard visualizes trends in movies and TV shows, global content distribution, top genres, and ratings, and offers insights into content duration and release year. Achievements include designing a user-friendly interface for visualizing diverse Netflix data and providing actionable insights into content strategies.",
-      image:
-        "https://private-user-images.githubusercontent.com/156224544/311056347-983fbb09-833e-4226-8b98-f72504aa1acf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4NjA0NDIsIm5iZiI6MTcxOTg2MDE0MiwicGF0aCI6Ii8xNTYyMjQ1NDQvMzExMDU2MzQ3LTk4M2ZiYjA5LTgzM2UtNDIyNi04Yjk4LWY3MjUwNGFhMWFjZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMVQxODU1NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OTQ2MjJlY2RiYzAxMmU0MTFhMThlMzYxZWFiNDE3N2U5YTkxZWI1ZmRmZjA0ZTA3ZjNmZmY5MWNlZmZmYmRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.b2TKCkboagT6KmII4PNzczmYklNCtcutVeXYgOsYmeQ",
+      image: process.env.PUBLIC_URL + '/images/netflix.png',
       tags: ["Excel", "Tableau"],
       category: "analytics projects",
       github: "https://github.com/Drashti199801/Netflix-Tableau-Dashboard",
@@ -311,8 +308,7 @@ export const Bio = {
       date: "Dec 2023",
       description:
         "Developed an interactive Tableau dashboard using a dataset containing detailed information about top football players. The dashboard provides insights into player attributes such as nationality, age, ratings, club, contract details, preferred positions, physical attributes, market value, and wage. Key features include visualizations of top countries in penalty skills, player loyalty, global talent distribution, contract economics, and player ratings. This project offers a dynamic platform for analyzing and comparing player statistics.",
-      image:
-        "https://private-user-images.githubusercontent.com/156224544/311060426-0e07ed83-a66d-4a32-aeae-dda524227b10.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4Njc2NDAsIm5iZiI6MTcxOTg2NzM0MCwicGF0aCI6Ii8xNTYyMjQ1NDQvMzExMDYwNDI2LTBlMDdlZDgzLWE2NmQtNGEzMi1hZWFlLWRkYTUyNDIyN2IxMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMVQyMDU1NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZDhiMDlmMzkxMDVjZmYzMWJiNjliZWQ0OWViODdiYjc1YmFhZDU1ZjFhMDYzZGY5MzYwYzUzMmM4MjA0ZTNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kZ6izfJBiIhw-fGMNdbL2iN-8nWQ6rAymHjMojfVqkk",
+        image: process.env.PUBLIC_URL + '/images/FIFA.png',
       tags: ["Excel", "Python", "Data Cleaning", "Jupyter Notebook", "Tableau"],
       category: "analytics projects",
       github: "https://github.com/Drashti199801/FIFA-Analysis-Tableau-?tab=readme-ov-file"
@@ -323,8 +319,7 @@ export const Bio = {
       date: "May 2024",
       description:
         "This project uses SQL and Power BI to analyze 22,000 HR records from 2000 to 2020. It provides insights into employee turnover, diversity, recruitment effectiveness, and performance evaluations. Key findings include age distribution, gender breakdown, racial distribution, and turnover rates by department. The dashboard reveals that 25% of employees work remotely, with most based in Ohio. It visualizes job titles and shows increasing hire counts over the years. Skills used: SQL Server 2022 and Power BI.",
-      image:
-        "https://private-user-images.githubusercontent.com/156224544/333310820-a09ebee0-c3d0-4113-98fa-e50a99592d10.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4Njc4NjgsIm5iZiI6MTcxOTg2NzU2OCwicGF0aCI6Ii8xNTYyMjQ1NDQvMzMzMzEwODIwLWEwOWViZWUwLWMzZDAtNDExMy05OGZhLWU1MGE5OTU5MmQxMC5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMVQyMDU5MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMWRmYmJjY2Q0ZTE1MjVlMWY4MWIzYWYyMGFlMWNjYWI1NDY1NzQxZDU2MThhNTlhOWE5ZmVjMmNmNzJiZGE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.4BIRqeP2vrTyJ1cfsRn7W8pm4o99-jlRffc9UTqmL6s",
+        image: process.env.PUBLIC_URL + '/images/HR.png',
       tags: ["Excel", "SQL Server", "Power BI", "Data Cleaning", "Data Analysis", "Data Visualization"],
       category: "analytics projects",
       github: "https://github.com/Drashti199801/HR-Analytics-by-SQL-Server-Power-BI"
@@ -335,8 +330,7 @@ export const Bio = {
       date: "June 2024",
       description:
         "This Power BI project analyzes health metrics for 5,191 patients, revealing key insights such as heart attack and stroke rates, health risk levels, and demographic trends. It shows that 2.74% of patients have had a heart attack and 1.73% have had a stroke, with most in 'Good' health. The dashboard explores age groups, occupational impacts, and racial breakdowns, using interactive filters for gender, health risks, and age. This project highlights skills in data visualization and analysis with Power BI.",
-      image:
-        "https://private-user-images.githubusercontent.com/156224544/344255645-47a51498-f335-4563-b982-c5bb4b6135b7.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4Njg1MzQsIm5iZiI6MTcxOTg2ODIzNCwicGF0aCI6Ii8xNTYyMjQ1NDQvMzQ0MjU1NjQ1LTQ3YTUxNDk4LWYzMzUtNDU2My1iOTgyLWM1YmI0YjYxMzViNy5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMVQyMTEwMzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZWZhOWQ0ZWZhODE3NzE0NDhjYWE2MWZhM2NmMjk5NjgxYmNjZjYyOTlkOWM0OWI3ODczMmM5N2NkNmQzMDE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.X99GidrEXSo8oIPI4L5e5CWMdqAitDeqOqWT3Zbd0iQ",
+      image: process.env.PUBLIC_URL + '/images/Health.png',
       tags: ["Excel", "Power BI", "Data Visualization"],
       category: "analytics projects",
       github: "https://github.com/Drashti199801/Health-Care-Analytics-using-Power-BI"
@@ -347,8 +341,7 @@ export const Bio = {
       date: "April 2024",
       description:
         "This repository contains an SQL script and SWC PDF for setting up and managing the SWC_DB database. It includes table creation, data insertion, views, triggers, and stored procedures for managing purchasers, suppliers, parts, and purchases. The script covers database setup, data integrity, and operational tasks.",
-      image:
-        "https://private-user-images.githubusercontent.com/156224544/344812231-bbfa645e-8e54-43ef-ab63-f083e81c726b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4Njk0MjMsIm5iZiI6MTcxOTg2OTEyMywicGF0aCI6Ii8xNTYyMjQ1NDQvMzQ0ODEyMjMxLWJiZmE2NDVlLThlNTQtNDNlZi1hYjYzLWYwODNlODFjNzI2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMVQyMTI1MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNzExNGQzYmZjOGJkMTg4M2Y4MzY2MTE0YjA0OTIzODgxODM1YzUyZDYzNDc3ZTIxMzZkNjdlNjZkZjU1MGQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.1Q7xa6ht-nvggxAk_Lsz3UvXyhJJ5lCk8TOVPHp-lXU",
+        image: process.env.PUBLIC_URL + '/images/db.png',
       tags: ["SQL Server"],
       category: "analytics projects",
       github: "https://github.com/Drashti199801/FIFA-Analysis-Tableau-?tab=readme-ov-file"
@@ -359,8 +352,7 @@ export const Bio = {
       date: "July 2024",
       description:
         "This project explores the Superstore USA dataset with Python to analyze order priorities, shipping methods, product categories, and sales across states, providing insights into e-commerce performance and trends.",
-      image:
-        "https://private-user-images.githubusercontent.com/156224544/344813957-051eaa4c-eedb-4c3c-889d-a1250428d610.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4Njk5NjMsIm5iZiI6MTcxOTg2OTY2MywicGF0aCI6Ii8xNTYyMjQ1NDQvMzQ0ODEzOTU3LTA1MWVhYTRjLWVlZGItNGMzYy04ODlkLWExMjUwNDI4ZDYxMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMVQyMTM0MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZmE2MTUyNzA5NzZkYWVmZDgwYTY1NTU5YTdlYTU4YjdmOWM3YTI5ZWU3NjA1OTJiZTU0NzgzNzIxNjg2YWVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.mdioNdHT_8L37_TtCU1AGyLmemDF0jyJnPvcUFLbkgo",
+        image: process.env.PUBLIC_URL + '/images/EDA.png',
       tags: ["Excel", "Python","Pandas","Matplotlib","Seaborn","Numpy","Jupyter Notebook"],
       category: "analytics projects",
       github: "https://github.com/Drashti199801/EDA-Project"
