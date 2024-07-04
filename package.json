@@ -1,7 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "My-Portfolio",
   "version": "0.1.0",
-  "homepage": "https://Drashti199801.github.io/Portfolio",
+  "homepage": "https://Drashti199801.github.io/My-Portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
