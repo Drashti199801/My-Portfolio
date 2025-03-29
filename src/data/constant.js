@@ -10,7 +10,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Drashti199801",
     resume:
-      "https://drive.google.com/file/d/1CIF_fhgeZUQCcYWaZRPhC7pWzbOP4IZ0/view?usp=sharing",
+      "https://drive.google.com/file/d/1VJAEhqkOG2hKKSml30ym9N5ZOL_qwEIz/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/drashti-bhavsar-01/",
   };
   
@@ -22,11 +22,6 @@ export const Bio = {
           name: "React Js",
           image:
             "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
-        },
-        {
-          name: "Redux",
-          image:
-            "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
         },
         {
           name: "Next Js",
@@ -85,10 +80,6 @@ export const Bio = {
           name: "MySQL",
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-        },
-        {
-          name: "Postgresql",
-          image: "https://www.postgresql.org/media/img/about/press/elephant.png",
         },
         {
           name: "MongoDB",
@@ -177,32 +168,12 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      role: "Data Analyst Intern",
-      company: "Mentorness",
-      date: "June 2024 - July 2024",
-      desc: "I performed extensive data analysis using Python and SQL, uncovering insights to support business decisions. I utilized Excel for data cleaning, VLOOKUP, and pivot tables to streamline data processing and analysis. Created interactive dashboards and visualizations using Tableau and Power BI, enhancing data presentation and comprehension. Conducted data extraction and transformation using SQL Server and MongoDB, optimizing data flow and integrity. Collaborated with cross-functional teams to deliver actionable insights and recommendations, improving overall project outcomes.",
-      skills: [
-        "Python",
-        "SQL Server",
-        "Excel (VLOOKUP, Pivot Tables)",
-        "Tableau",
-        "Power BI",
-        "MongoDB",
-        "Data Cleaning",
-        "Data Visualization",
-        "Data Extraction and Transformation",
-        "Cross-functional Collaboration"
-      ],
-    },
-    {
-      id: 1,
       role: "Software Engineer",
       company: "RedSoft Solutions Pvt. LTd.",
       date: "Aug 2021 - Feb 2023",
-      desc: "Developed and implemented user interfaces using React.js, Material UI, and TypeScript, enhancing user experience and functionality. Created and maintained RESTful APIs with Nest.js and Next.js, ensuring robust and efficient backend services. Integrated databases such as MongoDB and SQL Server for authentication and real-time data processing, optimizing data management and retrieval. Managed and collaborated on projects using Jira and Bitbucket, streamlining workflows and improving team productivity. Applied Python for backend development, leveraging its versatility and efficiency for various applications",
+      desc: "Developed and maintained scalable web applications using React.js, Node.js, and Python, ensuring efficient functionality. Managed and optimized SQL and MongoDB databases, enhancing data consistency and performance. Leveraged Pandas for data wrangling, transforming raw data into meaningful insights for business intelligence. Collaborated in an Agile environment, contributing to code reviews, sprint planning, and problem-solving to ensure high application uptime and reliability.",
       skills: [
         "ReactJS",
-        "Redux",
         "NodeJs",
         "Material UI",
         "HTML",
@@ -211,12 +182,19 @@ export const Bio = {
         "JavaScript",
         "TypeScript",
         "Python",
+        "Pandas",
+        "Data Structures",
         "Firebase",
         "MongoDB",
         "Github",
         "Jira",
         "Bitbucket",
-        "Postman"
+        "Postman",
+        "Tableau",
+        "Microsoft Excel",
+        "Power BI",
+        "Problem Solving",
+        "Leadership"
       ],
     }
   ];
@@ -228,7 +206,7 @@ export const Bio = {
       school: "Computer Application Developemnt, Conestoga, Canada",
       date: "Jan 2024 - Aug 2024",
       grade: "3.87 CGPA",
-      desc: "I am currently pursuing a post graduate degree in Computer Application Development at Conestoga college, Canada. This program includes courses in Systems Concepts, Analysis and Design, Programming: Software Development Techniques, Programming: Web Design and Development, Programming: Database Management, Web Foundations, System Development Project, Culture, Roles and Structure in Digital Industries, Programming: Mobile Application Development, and Microsoft Web Technologies.",
+      desc: "I completed post graduation studies in Computer Application Development. This program includes courses in Systems Concepts, Analysis and Design, Programming: Software Development Techniques, Programming: Web Design and Development, Programming: Database Management, Web Foundations, System Development Project, Culture, Roles and Structure in Digital Industries, Programming: Mobile Application Development, and Microsoft Web Technologies.",
       degree: "Post Graduation",
     },
     {
@@ -355,6 +333,39 @@ export const Bio = {
       tags: ["Excel", "Python","Pandas","Matplotlib","Seaborn","Numpy","Jupyter Notebook"],
       category: "analytics projects",
       github: "https://github.com/Drashti199801/EDA-Project"
+    },  
+    {
+      id: 8,
+      title: "Data Professional Survey Analysis Using Power BI",
+      date: "August 2024",
+      description:
+        "This project analyzes survey data from 630 data professionals worldwide, covering aspects such as salary trends, career transitions, and job satisfaction. The analysis reveals that female data professionals earn 2% more than their male counterparts, Python is the most popular programming language, and Data Scientists have the highest average salary, with the USA offering the highest compensation. Additionally, the USA leads in career switches into the data industry, and while work-life balance receives a moderate satisfaction rating, salary satisfaction is relatively lower. The Power BI dashboard effectively visualizes these key insights, providing a comprehensive overview of the global data professional landscape.",
+        image: process.env.PUBLIC_URL + '/images/DPS.JPG',
+      tags: ["Excel","Python","Power BI"],
+      category: "analytics projects",
+      github: "https://github.com/Drashti199801/Data-Professional-Survey-Analysis-by-Power-BI"
+    }, 
+    {
+      id: 9,
+      title: "Bike Sales Analysis Using Excel",
+      date: "July 2024",
+      description:
+        "This project involved cleaning, analyzing, and visualizing data related to individuals' demographic details and bike purchase behavior. After data cleaning, pivot tables were created to summarize insights such as bike purchases by marital status and gender, average income by occupation, and car ownership by commute distance. An interactive Excel dashboard was developed to visualize key trends using bar and line charts, providing a comprehensive overview of factors influencing bike purchases.",
+        image: process.env.PUBLIC_URL + '/images/BSD.JPG',
+      tags: ["Excel"],
+      category: "analytics projects",
+      github: "https://github.com/Drashti199801/Excel-Project-Bike-Sales-Dashboard-"
+    },  
+    {
+      id: 10,
+      title: "Telecom Customer Churn Analysis Using Excel",
+      date: "March 2025",
+      description:
+        "This project analyzes customer churn trends in a telecom company by examining demographics, usage patterns, and geographical data to identify high-risk segments. Key insights include higher churn among low-usage and short-tenure customers, with trends in call patterns and service calls indicating dissatisfaction. An interactive Excel dashboard was developed with pie, donut, and bar charts, along with dynamic slicers to filter data by region, providing actionable insights for targeted retention strategies.",
+        image: process.env.PUBLIC_URL + '/images/Telecom.JPG',
+      tags: ["Excel"],
+      category: "analytics projects",
+      github: "https://github.com/Drashti199801/Excel-Project-Telecom-Customer-Churn-Analysis"
     },  
   ];
   
